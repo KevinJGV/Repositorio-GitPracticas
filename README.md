@@ -8,4 +8,4 @@
 - Conectar repo remoto
 - Gestionar ramas
 - Restaurar Cambios
-
+- Resolver conflictos
