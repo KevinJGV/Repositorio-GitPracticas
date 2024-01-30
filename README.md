@@ -7,3 +7,5 @@
 ## Temas
 - Conectar repo remoto
 - Gestionar ramas
+- Restaurar Cambios
+
